@@ -17,4 +17,5 @@ function consistentPairs($array){
     return $cnt;
 }
 
+// Выводим результат
 echo consistentPairs($array);
